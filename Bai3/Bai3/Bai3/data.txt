@@ -1,0 +1,6 @@
+HTTP1.1 200 OK
+{
+"light": "on",	
+"fan": "off",
+"motor": "off"
+}

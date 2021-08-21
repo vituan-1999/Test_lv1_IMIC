@@ -1,0 +1,3 @@
+﻿  main.c
+c:\users\trieu\desktop\test_imic\bai2\bai2\bai2\main.c(19): warning C4477: 'printf' : format string '%X' requires an argument of type 'unsigned int', but variadic argument 1 has type '_16bit_t'
+  Bai2.vcxproj -> C:\Users\trieu\Desktop\Test_IMIC\Bai2\Bai2\Debug\Bai2.exe

@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\trieu\desktop\test_imic\bai4\bai4\bai4\source.cpp(16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+  Generating Code...
+  Bai4.vcxproj -> C:\Users\trieu\Desktop\Test_IMIC\Bai4\Bai4\Debug\Bai4.exe
